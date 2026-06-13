@@ -1,0 +1,29 @@
+pyarrow>=14.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.29.0
+# API y datos
+requests>=2.31.0
+tqdm>=4.66.0
+pandas>=2.2.0
+numpy>=1.26.0
+pydataxm>=0.3.14
+
+# Modelado (fases siguientes)
+scikit-learn>=1.4.0
+statsmodels>=0.14.0
+arch>=6.2.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+tensorflow>=2.15.0
+
+# DL (sección 4.b notebook 10): N-HiTS (neuralforecast)
+torch>=2.1.0
+lightning>=2.1.0
+neuralforecast>=1.7.0
+# pytorch-forecasting (TFT legacy; opcional si corre notebooks viejos)
+# pytorch-forecasting>=1.0.0
+
+# Visualización
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
