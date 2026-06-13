@@ -1,0 +1,8 @@
+{
+  "fingerprint": "7d23596d6ab9f56a928bab638d99",
+  "columns": [
+    "date",
+    "final_pred",
+    "ensemble_pred"
+  ]
+}
